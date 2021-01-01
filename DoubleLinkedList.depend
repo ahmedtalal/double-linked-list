@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608599889 source:d:\collage\terms1\ds\ds_projects\doublelinkedlist\doublelist.c
+	"doubleList.h"
+	<stddef.h>
+
+1608593775 d:\collage\terms1\ds\ds_projects\doublelinkedlist\doublelist.h
+
+1608599925 source:d:\collage\terms1\ds\ds_projects\doublelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"doubleList.h"
+
